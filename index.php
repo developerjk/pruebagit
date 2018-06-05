@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>
-		PAGINA DE INICIO
-	</title>
+	<title></title>
+	PAGINA DE INICIO
+		<label>Juan Carlos Porras Cadena</label>
+		<h1>HOLA soy FALCAO</h1>
 </head>
 <body>
 ACCESO A TODOS LOS USUARIOS
